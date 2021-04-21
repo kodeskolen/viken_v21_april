@@ -14,9 +14,9 @@ Vi har utviklet to kompendier rettet inn mot dette kurset – et for hver dag. D
 
 Presentasjonen finner dere [her](https://prezi.com/view/ARBvZ4PB4osYx1kcCLNk/).
 
-Oppgaver for dag 1 finner du [her](dag1/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](dag1/bonusoppgaver.pdf) du kan prøve deg på videre.
+Oppgaver for dag 1 finner du [her](dag1/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](dag1/bonusoppgaver.pdf) du kan prøve deg på videre. Oppgaver og bonusoppgaver for dag 2 finner du [her](dag2/oppgaver.pdf) og [her](dag2/bonusoppgaver.pdf).
 
-Eksempler blir lagt ut løpende, og vi kommer også til å legge ut løsningsforslag etterhvert.
+Fasit for de ulike oppgavesettene finner du [her](dag1/oppgaver_fasit.pdf), [her](dag1/bonusoppgaver_fasit.pdf), [her](dag2/oppgaver_fasit.pdf) og [her](dag2/bonusoppgaver_fasit.pdf).
 
 ## Ekstra ressurser:
 Her har vi lagt inn et par lenker som kan være nyttige hvis du leter etter nye utfordringer.
